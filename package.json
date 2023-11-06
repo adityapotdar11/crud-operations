@@ -1,0 +1,23 @@
+{
+    "name": "crud-operations",
+    "version": "1.0.0",
+    "description": "basic crud operations",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adityapotdar11/crud-operations.git"
+    },
+    "author": "Aditya Potdar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/adityapotdar11/crud-operations/issues"
+    },
+    "homepage": "https://github.com/adityapotdar11/crud-operations#readme",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^8.0.0"
+    }
+}
